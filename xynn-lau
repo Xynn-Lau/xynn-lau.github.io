@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Love Link</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="love-container">
+      <h1>Love Link</h1>
+      <p>Click the button to show your love for GitHub:</p>
+      <button id="love-button">Love</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
